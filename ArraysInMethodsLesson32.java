@@ -1,6 +1,6 @@
 package zeq.from.beginning;
 
-// This method of Arrays adds 5 to arrays values!!
+// This method of Arrays adds 5 to arrays values!!!
 
 public class ArraysInMethodsLesson32 {
     public static void main(String[] args) {
