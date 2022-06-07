@@ -3,7 +3,7 @@ package zeq.from.beginning;
 
 public class TimeClassMainLesson36 {
 
-    // Set military time and also convert military time to regular
+    // Set military time and also convert military time to regular!
     public static void main(String[] args) {
         timeClass36 timeClass36Object = new timeClass36();
 
